@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\rshah\Downloads\openGL-normal-mapping-master\openGL-normal-mapping-master\assign1.frag" />
+    <None Include="C:\Users\rshah\Downloads\openGL-normal-mapping-master\openGL-normal-mapping-master\assign1.vert" />
+    <None Include="shaders\bulb.frag" />
+    <None Include="shaders\bulb.vert" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="C:\Users\rshah\Downloads\openGL-normal-mapping-master\openGL-normal-mapping-master\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\rshah\Downloads\openGL-normal-mapping-master\openGL-normal-mapping-master\helper\drawable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\rshah\Downloads\openGL-normal-mapping-master\openGL-normal-mapping-master\helper\glslprogram.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\rshah\Downloads\openGL-normal-mapping-master\openGL-normal-mapping-master\helper\glutils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\rshah\Downloads\openGL-normal-mapping-master\openGL-normal-mapping-master\helper\trackball.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\rshah\Downloads\openGL-normal-mapping-master\openGL-normal-mapping-master\helper\vbocube.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\rshah\Downloads\openGL-normal-mapping-master\openGL-normal-mapping-master\helper\vbomesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\rshah\Downloads\openGL-normal-mapping-master\openGL-normal-mapping-master\helper\vbomeshadj.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\rshah\Downloads\openGL-normal-mapping-master\openGL-normal-mapping-master\helper\vboplane.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\rshah\Downloads\openGL-normal-mapping-master\openGL-normal-mapping-master\helper\vbosphere.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\rshah\Downloads\openGL-normal-mapping-master\openGL-normal-mapping-master\helper\vbosphere2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\rshah\Downloads\openGL-normal-mapping-master\openGL-normal-mapping-master\helper\vboteapot.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\rshah\Downloads\openGL-normal-mapping-master\openGL-normal-mapping-master\helper\vboteapotpatch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\rshah\Downloads\openGL-normal-mapping-master\openGL-normal-mapping-master\helper\vbotorus.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="helper\Mesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="helper\ShaderProgram.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\rshah\Downloads\openGL-normal-mapping-master\openGL-normal-mapping-master\helper\drawable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\rshah\Downloads\openGL-normal-mapping-master\openGL-normal-mapping-master\helper\gldecl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\rshah\Downloads\openGL-normal-mapping-master\openGL-normal-mapping-master\helper\glslprogram.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\rshah\Downloads\openGL-normal-mapping-master\openGL-normal-mapping-master\helper\glutils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\rshah\Downloads\openGL-normal-mapping-master\openGL-normal-mapping-master\helper\scene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\rshah\Downloads\openGL-normal-mapping-master\openGL-normal-mapping-master\helper\teapotdata.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\rshah\Downloads\openGL-normal-mapping-master\openGL-normal-mapping-master\helper\trackball.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\rshah\Downloads\openGL-normal-mapping-master\openGL-normal-mapping-master\helper\vbocube.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\rshah\Downloads\openGL-normal-mapping-master\openGL-normal-mapping-master\helper\vbomesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\rshah\Downloads\openGL-normal-mapping-master\openGL-normal-mapping-master\helper\vbomeshadj.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\rshah\Downloads\openGL-normal-mapping-master\openGL-normal-mapping-master\helper\vboplane.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\rshah\Downloads\openGL-normal-mapping-master\openGL-normal-mapping-master\helper\vbosphere.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\rshah\Downloads\openGL-normal-mapping-master\openGL-normal-mapping-master\helper\vbosphere2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\rshah\Downloads\openGL-normal-mapping-master\openGL-normal-mapping-master\helper\vboteapot.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\rshah\Downloads\openGL-normal-mapping-master\openGL-normal-mapping-master\helper\vboteapotpatch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\rshah\Downloads\openGL-normal-mapping-master\openGL-normal-mapping-master\helper\vbotorus.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="helper\Mesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="helper\ShaderProgram.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
